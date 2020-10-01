@@ -1,14 +1,13 @@
 # Email Spoofing
-Learn how to Spoofing any Mail
+Spoof E-Mail using PHP
 
-# Steps to Spoofing Mail
-1. To Spoofingany mail firstly download this repo.
+# Usage
+1. Clone this repository. `(gh repo clone arpitgothi/Email-Spoofing)`
 
-2.  Host this scripts on any platform. I will prefere https://www.000webhost.com/ . Becasue we can host without any Cost (It is up to you, you can choose any hosting Provider.)
+2. Host this application on any platform. I will prefere www.000webhost.com. (Platform must have a valid DNS)
 
-3. open URL of hosted script.
+3. Open URL of hosted application.
 
 4. Fill the Details that you want. fill correct Verification code and send the mail.
-
 
 Thanks.
